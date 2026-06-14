@@ -35,6 +35,8 @@ Currently seeking opportunities to contribute to cybersecurity, software enginee
 Repository:
 https://github.com/MariamN-x/Smart-Factory-Optimization-Using-Discrete-Event-System-and-Digital-Twin-Simulation
 
+https://cscgp.miuegypt.edu.eg/graduation-projects/graduation-projects-2025-2026/cys-gp-25-26/cys2604/
+
 Designed and developed a Digital Twin-based Smart Factory Optimization platform utilizing Discrete Event Simulation techniques to improve production efficiency, optimize resource allocation, and support data-driven operational decision making.
 
 **Technologies:** Simulation, Digital Twin, Manufacturing Systems, Optimization
