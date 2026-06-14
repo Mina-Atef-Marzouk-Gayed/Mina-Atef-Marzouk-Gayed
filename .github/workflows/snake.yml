@@ -18,13 +18,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Mina-Atef-Marzouk-Gayed
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=%2300D4FF&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
