@@ -186,6 +186,33 @@ Project focused on:
 * Orange Data Mining
 
 ---
+### ⭐ Word Frequency Counter
+
+Repository:
+https://github.com/Mina-Atef-Marzouk-Gayed/Word-Frequency-Counter
+
+A text analysis tool that processes documents and calculates word frequencies, helping users identify common terms and analyze textual data efficiently.
+
+---
+
+### ⭐ Hotel Management System
+
+Repository:
+https://github.com/LordZorg58/Hotel-Management-System
+
+A hotel management solution designed to streamline reservations, customer records, room management, and administrative operations.
+
+---
+
+### ⭐ Online Bookstore E-Commerce Website
+
+Repository:
+https://github.com/MaryamSoubky/maryamsoubky.github.io
+
+A responsive e-commerce bookstore website that enables users to browse books, explore categories, and enjoy a modern online shopping experience.
+
+---
+
 
 ## Technical Skills
 
