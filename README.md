@@ -1,4 +1,5 @@
+## 🐍 Contribution Snake
 
-## Contribution Snake
-
-![snake](https://github.com/Mina-Atef-Marzouk-Gayed/Mina-Atef-Marzouk-Gayed/blob/output/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mina-Atef-Marzouk-Gayed/Mina-Atef-Marzouk-Gayed/output/ocean.gif" alt="Snake Animation">
+</p>
